@@ -1,0 +1,16 @@
+{
+    "name": "repro-cf-v6",
+    "type": "module",
+    "version": "0.0.1",
+    "scripts": {
+        "dev": "astro dev",
+        "build": "astro build",
+        "preview": "astro preview",
+        "astro": "astro"
+    },
+    "dependencies": {
+        "@astrojs/cloudflare": "https://pkg.pr.new/@astrojs/cloudflare@2cb31aa",
+        "astro": "https://pkg.pr.new/astro@2cb31aa",
+        "wrangler": "^4.73.0"
+    }
+}
