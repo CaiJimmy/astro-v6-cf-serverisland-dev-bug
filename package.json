@@ -9,8 +9,8 @@
         "astro": "astro"
     },
     "dependencies": {
-        "@astrojs/cloudflare": "https://pkg.pr.new/@astrojs/cloudflare@2cb31aa",
-        "astro": "https://pkg.pr.new/astro@2cb31aa",
+        "@astrojs/cloudflare": "13.1.2",
+        "astro": "6.0.5",
         "wrangler": "^4.73.0"
     }
 }
